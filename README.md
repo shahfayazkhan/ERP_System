@@ -11,6 +11,28 @@ A complete Enterprise Resource Planning (ERP) System built with Node.js + Sequel
 
 ---
 
+## User Interface Showcase
+
+Here are screenshots of the ERP client interfaces, illustrating the premium dark theme and dashboard grids.
+
+### 1. Secure Access Portal
+The login screen features glassmorphic layouts, error banners, and credential hints for validation testing.
+![Secure Access Portal](frontend/screenshots/login.png)
+
+### 2. Operational Analytics Dashboard
+Central control panel aggregating sales revenues, restocking costs, operating profits, and stock deficit warning tiles. Includes interactive custom SVG area curves plotting monthly business trends.
+![Operational Analytics Dashboard](frontend/screenshots/dashboard.png)
+
+### 3. Inventory Catalog & Warehouse Control
+The index display tracks product SKUs, minimum stock alert warning triggers, category filtering selectors, and modal shortcuts for manual quantity reconciliations.
+![Inventory Catalog & Warehouse Control](frontend/screenshots/inventory.png)
+
+### 4. Invoice Builder & Sales History
+A structured Invoice Builder supporting client selections, live stock catalog lookup selectors, subtotal checkout calculations, and print-ready document modals.
+![Invoice Builder & Sales History](frontend/screenshots/sales.png)
+
+---
+
 ## Technical Stack & Architecture
 
 ### Backend (`/backend`)
