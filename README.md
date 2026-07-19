@@ -1,4 +1,4 @@
-# Antigravity ERP System
+# Advance ERP System
 
 A complete Enterprise Resource Planning (ERP) System built with Node.js + Sequelize ORM + PostgreSQL on the backend and React + Redux Toolkit + Vanilla CSS on the frontend.
 

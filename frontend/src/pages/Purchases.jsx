@@ -602,7 +602,7 @@ const Purchases = () => {
             <div className="modal-body" style={{ color: 'var(--text-main)' }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '24px', borderBottom: '1px solid var(--border-color)', paddingBottom: '16px' }}>
                 <div>
-                  <div style={{ fontSize: '18px', fontWeight: '800', background: 'linear-gradient(135deg, #FFF, var(--primary))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>ANTIGRAVITY ERP</div>
+                  <div style={{ fontSize: '18px', fontWeight: '800', background: 'linear-gradient(135deg, #FFF, var(--primary))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>ADVANCE ERP</div>
                   <div style={{ fontSize: '11px', color: 'var(--text-muted)', marginTop: '4px' }}>Tech Logistics & Warehouse Solutions</div>
                 </div>
                 <div style={{ textAlign: 'right' }}>

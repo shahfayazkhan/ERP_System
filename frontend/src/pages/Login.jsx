@@ -34,7 +34,7 @@ const Login = () => {
       
       <div className="login-card">
         <div className="login-header">
-          <div className="login-logo">ANTIGRAVITY ERP</div>
+          <div className="login-logo">ADVANCE ERP</div>
           <p className="login-subtitle">Sign in to manage your enterprise resource database</p>
         </div>
 

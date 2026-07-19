@@ -43,7 +43,7 @@ const Layout = ({ children }) => {
       {/* Sidebar */}
       <aside className={`sidebar ${collapsed ? 'collapsed' : ''}`}>
         <div className="sidebar-header">
-          <div className="sidebar-logo-text">ANTIGRAVITY ERP</div>
+          <div className="sidebar-logo-text">ADVANCE ERP</div>
         </div>
 
         <ul className="sidebar-menu">

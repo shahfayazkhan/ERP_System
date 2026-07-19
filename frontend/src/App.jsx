@@ -23,7 +23,7 @@ const ProtectedRoute = ({ children, allowedRoles }) => {
       <div style={{ display: 'flex', height: '100vh', width: '100vw', alignItems: 'center', justifyContent: 'center', backgroundColor: 'var(--bg-main)', color: 'white' }}>
         <div style={{ textAlign: 'center' }}>
           <div style={{ fontSize: '24px', fontWeight: '800', background: 'linear-gradient(135deg, #FFF, var(--primary))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', marginBottom: '8px' }}>
-            ANTIGRAVITY ERP
+            ADVANCE ERP
           </div>
           <span style={{ fontSize: '14px', color: 'var(--text-muted)' }}>Synchronizing secure enterprise link...</span>
         </div>
