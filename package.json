@@ -1,0 +1,12 @@
+{
+  "name": "erp-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install-backend": "cmd.exe /c \"cd backend && npm install\"",
+    "install-frontend": "cmd.exe /c \"cd frontend && npm install\"",
+    "install-all": "cmd.exe /c \"cd backend && npm install && cd ../frontend && npm install\"",
+    "dev-backend": "cmd.exe /c \"cd backend && npm run dev\"",
+    "dev-frontend": "cmd.exe /c \"cd frontend && npm run dev\""
+  }
+}

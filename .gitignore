@@ -1,0 +1,38 @@
+# =========================================================================
+# ROOT LEVEL IGNORES
+# =========================================================================
+node_modules/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# =========================================================================
+# BACKEND IGNORES
+# =========================================================================
+/backend/node_modules/
+/backend/.env
+/backend/.env.local
+/backend/*.log
+/backend/npm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+
+# =========================================================================
+# FRONTEND IGNORES
+# =========================================================================
+/frontend/node_modules/
+/frontend/dist/
+/frontend/build/
+/frontend/.env
+/frontend/.env.local
+/frontend/*.log
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/dist-ssr/
